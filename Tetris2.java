@@ -431,7 +431,7 @@ public class Tetris2 {
 				}
 			}
 			window.repaint();
-			try{Thread.sleep(20);}
+			try{Thread.sleep(1000-((score/500)*100));}
 			catch(Exception exp){System.out.println("Runtime Error");}
 		}
 		// when the piece hits the bottom, it connects with all the other pieces
