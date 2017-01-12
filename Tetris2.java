@@ -1,4 +1,11 @@
 package Tetris2;
+//Made by Andrew Xue
+//a3xue@edu.uwaterloo.ca
+// TETRIS! Use the left and right arrow keys to move the falling block left and right. Use
+//    the down arrow key to instantly drop the block and use the up arrow key to rotate the
+//    block counterclockwise 90 degrees. Create a solid row of blocks to destroy them and get
+//    points. If the blocks reach the top of the screen you lose!
+//Part of a project to learn Java over the winter break and create retro video games
 
 import java.awt.Color;
 import java.awt.Font;
